@@ -3,7 +3,7 @@ find similar images using lbp descriptor and euclidian distance
 
 GUI: PyQt5
 
-**1)  First step is to press the red button in order to calculate the histogram set.
+**1)  First step is to press the red button in order to update the image path array.
     Adding new images to the img folder requires a new histogram set calculation.**
     
 
